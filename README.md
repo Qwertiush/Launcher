@@ -39,8 +39,9 @@ Mobile application that replaces the default Android home screen.
 ---
 
 ## 📸 Screenshots
-<img src="screenshots/1.jpg" width="300" />
-<img src="screenshots/2.jpg" width="300" />
+<img src="screenshots/androidLauncher.jpg.jpg" width="300" />
+<img src="screenshots/androidLauncher2.jpg.jpg" width="300" />
+<img src="screenshots/androidLauncher3.jpg.jpg" width="300" />
 
 ---
 
