@@ -1,6 +1,6 @@
 # Android Launcher
 
-Mobile application that replaces the default Android home screen.
+Mobile application that replaces the default Android 10 home screen.
 
 ---
 
