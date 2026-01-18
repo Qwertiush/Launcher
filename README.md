@@ -1,16 +1,59 @@
-# mos
+# Android Launcher
 
-A new Flutter project.
+Mobile application that replaces the default Android home screen.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Minimalistic main screen with clock, date, quick apps button, and Pomodoro button
+- Left screen with user's tasks
+- Right screen displaying all installed applications
+- Custom application search engine
+- Built-in Pomodoro timer
+- Local storage for personal data (tasks and preferences)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- Local storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🏗️ Architecture Overview
+- Application built using Flutter and Dart
+- Local state management within the app
+- Persistent local storage for user data
+- Integration with Android system as a custom launcher
+
+---
+
+## 🧠 Technical Implementation
+- Custom launcher integration with Android system
+- Custom navigation between launcher screens
+- Custom application search functionality
+- Task management with persistent storage
+- Pomodoro timer implementation
+
+---
+
+## 📸 Screenshots
+<img src="screenshots/1.jpg" width="300" />
+<img src="screenshots/2.jpg" width="300" />
+
+---
+
+## ⚙️ How to Run the Application
+1. Clone repository:
+   ```bash
+   git clone https://github.com/Qwertiush/Launcher.git
+2. Install dependencies:
+  ```bash
+  flutter pub get
+  ```
+3. Run application:
+  ```bash
+  flutter run
+  ```
+
